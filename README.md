@@ -22,8 +22,8 @@ $ npm run dev
 
 ## Usage
 
-- After `npm run dev` open browser localhost. 
-- The parent file, App.jsx, is where all of the children are displayed. 
+- After `npm run dev` open browser http://localhost:5173/
+- The parent file, App.jsx, is where all of the children are displayed.
 - To close use Ctrl+C.
 
 ```
@@ -31,7 +31,7 @@ import './App.css'
 import QuoteFecher from './QuoteFecher'
 
 function App() {
-  
+
 
   return (
     <>
